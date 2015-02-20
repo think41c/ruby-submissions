@@ -19,6 +19,6 @@
 * Rob Cornell: (https://github.com/kurohyou108/chisel/blob/master/README.md)
 * Tess Griffin: (https://github.com/tessgriffin/chisel)
 * Thomas Leskin: (replace with your repo url here)
-* Tony DiNitto: (replace with your repo url here)
+* Tony DiNitto: (https://github.com/think41c/project_chisel)
 * Tracy Caruso: (replace with your repo url here)
 * Tyler Graham: (replace with your repo url here)
